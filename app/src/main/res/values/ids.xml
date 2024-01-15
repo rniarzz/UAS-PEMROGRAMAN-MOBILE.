@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="AespaFragment" type="id" />
+    <item name="ExoFragment" type="id" />
+    <item name="NctFragment" type="id" />
+    <item name="Un1tyFragment" type="id" />
+</resources>
